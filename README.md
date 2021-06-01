@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there
+
+I'm a complete newbie in coding, and as I start a 2-year computer science course in summer 2021, I want to build some pretty basic starter projects and share them here, although I'm pretty sure nobody will ever read this lol. 
+It's gonna start with Python and a text based rpg game in it's simplest form, and will probably go on from there with a discord bot as a second project.
 
 <!--
 **turw41th/turw41th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
