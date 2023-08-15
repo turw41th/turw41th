@@ -1,7 +1,6 @@
 ### Hello there
 
-I'm a complete newbie in coding, and as I started a 2-year computer science course in summer 2021, I want to build some pretty basic starter projects and share them here, along with projects we're working on in school.
-
+I am currently working in my first fully paid job as a software developer. In my free time, I sometimes work on private projects, most often on my website. 
 <!--
 **turw41th/turw41th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
